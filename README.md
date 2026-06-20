@@ -206,6 +206,10 @@ Rice-Leaf-Disease-Classification-Using-Deep-Learning-and-Transfer-Learning
 ├── images/
 └── dataset/
 ```
+## Dataset
+
+The dataset can be downloaded from:
+https://drive.google.com/file/d/1dCkZ0_hd2xVfaMd66nKZ2o-YbTMKP4lc/view?usp=sharing
 
 ---
 
