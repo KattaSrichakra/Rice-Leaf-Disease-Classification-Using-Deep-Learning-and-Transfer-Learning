@@ -153,7 +153,7 @@ The project includes:
 ## 💾 Model File
 
 ```text
-rice_leaf_mobilenetv2_model.keras
+rice leaf mobilenetv2_model.keras
 ```
 
 ---
